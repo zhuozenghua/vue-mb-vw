@@ -1,10 +1,10 @@
-### Vue2.0 中使用vw完成移动端页面适配
+## Vue2.x 中使用vw完成移动端页面适配
 
 如果你还对使用vw做移动端页面适配不了解，这里推荐大漠老师的两篇文章
 
 [再聊移动端页面的适配](https://www.w3cplus.com/css/vw-for-layout.html)和[如何在Vue项目中使用vw实现移动端适配](https://www.w3cplus.com/mobile/vw-layout-in-vue.html)
 
-随着视口单位被众多浏览器所支持，我们现在完全可以使用vw来做移动端的适配问题。下面就介绍一下Vue2.0 中使用vw实现移动端页面适配的步骤。[代码](https://github.com/zhuozenghua/vue-mb-vw)
+随着视口单位被众多浏览器所支持，我们现在完全可以使用vw来做移动端的适配问题。下面就介绍一下Vue2.x 中使用vw实现移动端页面适配的步骤。[代码](https://github.com/zhuozenghua/vue-mb-vw)
 ***
 
 #### 前提
